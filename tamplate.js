@@ -1,0 +1,1 @@
+console.log('hi everyone this is JavaScript ES6');
